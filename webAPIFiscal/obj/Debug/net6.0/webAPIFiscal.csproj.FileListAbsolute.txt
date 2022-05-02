@@ -1,0 +1,6 @@
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal\obj\Debug\net6.0\webAPIFiscal.csproj.AssemblyReference.cache
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal\obj\Debug\net6.0\webAPIFiscal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal\obj\Debug\net6.0\webAPIFiscal.AssemblyInfoInputs.cache
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal\obj\Debug\net6.0\webAPIFiscal.AssemblyInfo.cs
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal\obj\Debug\net6.0\webAPIFiscal.csproj.CoreCompileInputs.cache
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal\obj\Debug\net6.0\webAPIFiscal.MvcApplicationPartsAssemblyInfo.cache

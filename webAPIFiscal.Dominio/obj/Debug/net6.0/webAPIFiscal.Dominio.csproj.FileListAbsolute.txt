@@ -1,0 +1,12 @@
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\bin\Debug\net6.0\webAPIFiscal.Dominio.deps.json
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\bin\Debug\net6.0\webAPIFiscal.Dominio.dll
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\bin\Debug\net6.0\webAPIFiscal.Dominio.pdb
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\obj\Debug\net6.0\webAPIFiscal.Dominio.csproj.AssemblyReference.cache
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\obj\Debug\net6.0\webAPIFiscal.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\obj\Debug\net6.0\webAPIFiscal.Dominio.AssemblyInfoInputs.cache
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\obj\Debug\net6.0\webAPIFiscal.Dominio.AssemblyInfo.cs
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\obj\Debug\net6.0\webAPIFiscal.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\obj\Debug\net6.0\webAPIFiscal.Dominio.dll
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\obj\Debug\net6.0\refint\webAPIFiscal.Dominio.dll
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\obj\Debug\net6.0\webAPIFiscal.Dominio.pdb
+C:\Users\alef.silva\source\repos\webAPIFiscal\webAPIFiscal.Dominio\obj\Debug\net6.0\ref\webAPIFiscal.Dominio.dll

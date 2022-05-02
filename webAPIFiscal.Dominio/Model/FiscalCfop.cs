@@ -1,0 +1,63 @@
+﻿namespace WebApiFiscal.Dominio.Model;
+
+public class FiscalCfop
+{
+    public long TBL_CFOP_ID { get; set; }
+    public string CLAFISCAL { get; set; }
+    public string NATUREZA { get; set; }
+    public string TIPONF { get; set; }
+    public string PERC_DESC { get; set; }
+    public string CTBINT { get; set; }
+    public string SUB_CFOP { get; set; }
+    public string IncideImpostos { get; set; }
+    public string GeraCAR { get; set; }
+    public string AlteraEstoques { get; set; }
+    public string Tabela_Fixa { get; set; }
+    public string Prazo_Fixo { get; set; }
+    public string OBS1 { get; set; }
+    public string OBS2 { get; set; }
+    public string OBS3 { get; set; }
+    public string CST_ICMS { get; set; }
+    public string CST_IPI { get; set; }
+    public string CST_PIS { get; set; }
+    public string CST_COFINS { get; set; }
+    public string OBScfop { get; set; }
+    public string CLAFISCAL_1 { get; set; }
+    public string CLAFISCAL_2 { get; set; }
+    public string LANCA_OUTROS { get; set; }
+    public string LANCA_ISENTO { get; set; }
+    public string DATA { get; set; }
+    public string USUARIO { get; set; }
+    public string Finalidade { get; set; }
+    public string GeraST { get; set; }
+    public string TituloNF { get; set; }
+    public string CLAFISCAL_E1 { get; set; }
+    public string CLAFISCAL_E2 { get; set; }
+    public string Hora { get; set; }
+    public string SDATAHORA { get; set; }
+    public string OPERACAO { get; set; }
+    public string PedidoNaturezaSigla { get; set; }
+    public string OpInternaExterna { get; set; }
+    public string GeraCAP { get; set; }
+    public string AfetaFaturamento { get; set; }
+    public string PedidoNaturezaID { get; set; }
+    public string ContabilTipoNFID { get; set; }
+    public string NaoIncideST { get; set; }
+    public string webbloja { get; set; }
+    public string difal { get; set; }
+    public string somaipi { get; set; }
+    public string LancaEstoqueVerejo { get; set; }
+    public string devolucao { get; set; }
+    public string RecebeSemConferencia { get; set; }
+    public string CodigoBeneficio { get; set; }
+    public string pReducao { get; set; }
+    public string flagTransferencia { get; set; }
+    public string SUFRAMA { get; set; }
+    public string BitAtivo { get; set; }
+    public string CTBINT_NF_PF { get; set; }
+    public string CTBINT_NF_PJ { get; set; }
+    public string CTBINT_CF { get; set; }
+    public string CTBINT_NFCE { get; set; }
+    public string CTBINT_SAT { get; set; }
+    public string DevolucaoSN { get; set; }
+}
