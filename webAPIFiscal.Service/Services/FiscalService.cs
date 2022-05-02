@@ -361,7 +361,7 @@ namespace WebApiFiscal.Service.Services
 
         }
 
-
+  
         public async Task<byte[]> GetDanfeXML(string chaveacesso)
         {
             if (string.IsNullOrWhiteSpace(chaveacesso)) throw new ArgumentException("Chave de Acesso não pode ser nulo ou vazio.");
